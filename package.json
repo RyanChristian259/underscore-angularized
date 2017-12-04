@@ -7,8 +7,7 @@
     "test": "grunt test",
     "test-chrome" : "grunt chrome",
     "test-firefox" : "grunt firefox",
-    "test-ie" : "grunt ie",
-    "install": "bower install"
+    "test-ie" : "grunt ie"
   },
   "repository": {
     "type": "git",
